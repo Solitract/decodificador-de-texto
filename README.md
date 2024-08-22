@@ -31,10 +31,11 @@ Apenas letras minúsculas e sem acentuações serão aceitas.
 
 # imagens do projeto 
 
-![Captura de Tela (6)](https://github.com/user-attachments/assets/804e3c62-df89-4d39-a46a-fb259d3ced2e)
+![Captura de Tela (6)](https://github.com/user-attachments/assets/3a478f9f-fc17-4ef2-92bc-539902303e9c)
 
 
-![Captura de Tela (7)](https://github.com/user-attachments/assets/a7f7c2c3-7ee7-4fcd-9ebd-a389c49590d2)
+![Captura de Tela (7)](https://github.com/user-attachments/assets/79b52115-9bf1-476f-b3ef-9b4b40acb9ca)
+
 
 # Desafio
 
