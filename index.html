@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chalenger/Desafio alura</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <main class="container">
+        <section class="logo">
+            <img src="/assents/Heading-fotor-bg-remover-2024082051023.png" alt="Logo Alura">
+        </section>
+        <div class="codificar">
+            <textarea class="texto" id="texto" placeholder="digite seu texto"></textarea>
+        </div>
+        <div class="termos">
+            <img src="/assents/exclamacao.png" alt="ponto de exclamação">
+            <p>apenas letras minúsculas e sem acentos.</p>
+        </div>
+        <div class="botoes">
+            <button class="bt-cript" type="button" onclick="criptografar()">
+                Criptografar</button>
+            <button class="bt-descrip" type="button" onclick="descriptografar()">
+                Descriptografar</button>
+        </div>
+    <div class="cript">
+        <img src="/assents/hat kid.png" class= "lupa" alt="" id="lupa">
+        <div class="mensagem-cripto">
+            <h2 id="titulo-mensagem"></h2>
+                <p id="paragrafo">Digite o texto que você deseja criptografar ou descriptografar</p>
+                <textarea disabled id ="mensagem" class="mensagem"></textarea>
+        </div>
+        <div class="bt-copiar-texto" style="display: block;">
+            <button class="bt-copiar" id="bt-copiar" onclick="copiarTexto()">Copiar</button>
+            </div>
+        </main>
+        <footer class="footer">Desenvolvido por João Pedro Almeida Ribeiro</footer>
+</body>
+<script src="index.js"></script>
+
+</html>
