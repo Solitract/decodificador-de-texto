@@ -40,6 +40,7 @@ Apenas letras minúsculas e sem acentuações serão aceitas.
 # Desafio
 
 Bom, tive muita dificuldade na manipulação de css, arrumar cada coisa em seu devido lugar foi um grande desafio. Pretendo refazer o mesmo codigo com várias adaptações mais práticas!
+Onde mais sofri foi na responsividade do site, estarei arrumando tudo em uma versão v2 do codigo, por que tudo ficou uma bagunça para a versão de celular/tableb. Isso tambem me gerou bastante tempo de pesquisa, e pretendo solucionar cada um dos problemas. No mais, é isto :) espero que gostem do projeto!
 
 # Link do projeto no ar
 
